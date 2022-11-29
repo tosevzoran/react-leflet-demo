@@ -66,6 +66,10 @@ button:focus-visible {
   height: 100%;
 }
 
+.sr-only {
+  display: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
